@@ -107,7 +107,3 @@ The webcam displays the predicted gesture, and the text-to-speech engine speaks 
 - Improve recognition under different lighting conditions.
 - Add confidence thresholds and prediction smoothing.
 - Develop a graphical user interface for easier interaction.
-
-## License
-
-No license has been specified for this project yet.
